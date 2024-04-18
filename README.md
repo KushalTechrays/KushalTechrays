@@ -24,6 +24,6 @@ I'm Kushal Ruparel, a passionate full-stack developer with over 4 years of exper
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 
 ## Contact Me
-Feel free to reach out to me via [email](mailto:kruparel@techrayslabs.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kushalruparel/).
+Feel free to reach out to me via [email](mailto:kruparel@techrayslabs.com).
 
 Let's collaborate and build something amazing together! 🚀
